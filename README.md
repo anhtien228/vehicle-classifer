@@ -68,9 +68,6 @@ Viewer can download the code to checkout my work and its process.
 
 Before running the code, make sure that you have installed the TensorFlow 2 on your computer.
   ```
-
-### Installation
-
 Install TensorFlow 2
    ```python
    # Requires the latest pip
