@@ -90,7 +90,7 @@ User can run each cell to process the code by pressing Ctrl + Enter
 ## Acknowledgements
 
 * [Kaggle Vehicle Dataset](https://www.kaggle.com/jessicali9530/stanford-cars-dataset)
-* [Install TensorFlow 2](https://www.tensorflowKeras Tuner)
+* [Install TensorFlow 2](https://www.tensorflow)
 * [Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)
 
 
